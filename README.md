@@ -4,13 +4,7 @@
 
 
 
-<p align="center">
-  <img src="docs/images/pcb-3d-main-lidar-controller.png" alt="3D render of the main LiDAR interface controller PCB" width="32%">
-  <img src="docs/images/pcb-3d-gimbal-controller.png" alt="3D render of the gimbal controller PCB" width="32%">
-  <img src="docs/images/pcb-3d-front-mounted-controller.png" alt="3D render of the front-mounted controller PCB" width="32%">
-  <br>
-  <sub>48 V concept PCBs designed in Altium Designer: main LiDAR interface controller · gimbal controller · front-mounted projector controller</sub>
-</p>
+
 
 ---
 
