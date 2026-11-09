@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=IC1-5
+Removed Pin From Net: NetName=+3V3 Pin=P3-1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC5
+Change Component Description : Designator=L1 Old Description=Power Inductor, 6.8Uh, Shielded, 6.6A Rohs Compliant: Yes New Description=Power Inductor, 6.8Uh, Shielded, 6.6A Rohs Compliant: Yes |Wurth Elektronik 7443734948068
+Added Pin To Net: NetName=+3V3 Pin=IC1-5
+Added Pin To Net: NetName=+5V Pin=P3-1
+Change Net Name : Old Net Name=NetIC?_39 New Net Name=NetIC5_39
+Change Net Name : Old Net Name=NetIC?_60 New Net Name=NetIC5_60
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

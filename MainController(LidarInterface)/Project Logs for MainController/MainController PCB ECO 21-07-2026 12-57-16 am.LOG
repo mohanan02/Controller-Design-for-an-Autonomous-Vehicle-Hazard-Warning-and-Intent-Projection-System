@@ -1,0 +1,11 @@
+Added Component: Designator=D9(SODFL4725X105N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RSX301LAM30TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rsx301lam30tr/rohm-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/schottky_barrier/rsx301lam30tr-e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RSX301LAM30TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "755-RSX301LAM30TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RSX301LAM30TR?qs=gt1LBUVyoHmBgXqJmWcmEw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC19_2 Pin=D9-1
+Added Pin To Net: NetName=+5V_USB Pin=D9-2

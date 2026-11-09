@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=B1 NewDesignator=U3
+Change Component Designator: OldDesignator=D1 NewDesignator=U2
+Change Component Designator: OldDesignator=J1 NewDesignator=U4
+Added Component: Designator=U5(SOIC127P600X170-9N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LMR38020FSQDDARQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lmr38020fsqddarq1/texas-instruments.html?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/gpn/LMR38010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LMR38020FSQDDARQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-MR38020FSQDDARQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMR38020FSQDDARQ1?qs=ulEaXIWI0c9yq0Uk8ysL6g%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MainController Member=Component U5 LMR38020FSQDDARQ1

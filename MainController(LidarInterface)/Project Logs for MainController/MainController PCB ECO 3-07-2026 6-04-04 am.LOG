@@ -1,0 +1,93 @@
+Added Component: Designator=C12(CAPC3216X190N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM31CC72A475ME11L/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM31CC72A475ME11L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3216-2 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM31CC72A475ME11L/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP_0603_WAL)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Walsin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0603B104K101CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAPC1005X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl05b104ko5nnnc/samsung-electro-mechanics.html?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2408147.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "187-CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL05B104KO5NNNC?qs=hqM3L16%252BxlfT2SKOuAUq6Q%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAPC6153X390N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/KRM55QR71H226KH13K/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "KRM55QR71H226KH13K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/KRM55QR71H226KH13K/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_RC0402_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0402FR-0752K3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_CRCW_0603_VIS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW0603100KFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP1(KEYSTONE_1039)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1039/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1039"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1039/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VR1(TRIM_3296W-1-472LF)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3296W-1-472LF/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3296W-1-472LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "NON STANDARD-3 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3296W-1-472LF/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VSS Pin=C12-1
+Added Pin To Net: NetName=Vin_48V Pin=C12-2
+Added Pin To Net: NetName=VSS Pin=C13-1
+Added Pin To Net: NetName=Vin_48V Pin=C13-2
+Added Pin To Net: NetName=VSS Pin=C15-1
+Added Pin To Net: NetName=VSS Pin=R5-1
+Added Pin To Net: NetName=VSS Pin=U7-9
+Added Pin To Net: NetName=VSS Pin=VR1-1
+Added Pin To Net: NetName=+24V Pin=C15-2
+Added Pin To Net: NetName=+24V Pin=L1-1
+Added Pin To Net: NetName=+24V Pin=R6-1
+Added Pin To Net: NetName=+24V Pin=TP1-TP
+Added Net: Name=+24V
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=U7-7
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=L1-2
+Added Pin To Net: NetName=NetC14_2 Pin=U7-8
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U7-4
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=VR1-3
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetU7_5 Pin=U7-5
+Added Pin To Net: NetName=NetU7_5 Pin=VR1-2
+Added Net: Name=NetU7_5
+Added Member To Class: ClassName=MainController Member=Component C12 4.7uF100V
+Added Member To Class: ClassName=MainController Member=Component C13 100nF100V
+Added Member To Class: ClassName=MainController Member=Component C14 100nF
+Added Member To Class: ClassName=MainController Member=Component C15 22uF50V
+Added Member To Class: ClassName=MainController Member=Component R5 52.3kR
+Added Member To Class: ClassName=MainController Member=Component R6 100kR
+Added Member To Class: ClassName=MainController Member=Component TP1 1039
+Added Member To Class: ClassName=MainController Member=Component VR1 3296W-1-472LF
+Added Rule: Name=Schematic Supply Nets_3

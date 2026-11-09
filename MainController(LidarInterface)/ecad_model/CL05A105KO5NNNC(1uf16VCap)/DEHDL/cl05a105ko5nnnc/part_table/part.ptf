@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CL05A105KO5NNNC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "SAMSUNG", "CL05A105KO5NNNC" (!) = "", "CAPC1005X55N", "Capacitor Chip Non-polarised", "187-CL05A105KO5NNNC", "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL05A105KO5NNNC?qs=349EhDEZ59pCm%252BzVtNxq%2FQ%3D%3D", "CL05A105KO5NNNC", "https://www.arrow.com/en/products/cl05a105ko5nnnc/samsung-electro-mechanics?utm_currency=USD&region=nac", "Samsung Electro-Mechanics 0402 (1005M) 1uF Multilayer Ceramic Capacitor MLCC 16V dc +/-10% SMD CL05A105KO5NNNC", "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL05A105KO5NNNC_C29266.pdf", "0.55 mm"
+END_PART
+
+END.

@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=C31-2
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Pin From Net: NetName=GND Pin=F1-1
+Removed Pin From Net: NetName=GND Pin=IC3-2
+Removed Pin From Net: NetName=GND Pin=IC3-11
+Removed Pin From Net: NetName=GND Pin=IC3-12
+Removed Pin From Net: NetName=GND Pin=IC3-21
+Added Pin To Net: NetName=NetC29_2 Pin=C29-2
+Added Pin To Net: NetName=NetC29_2 Pin=C31-2
+Added Pin To Net: NetName=NetC29_2 Pin=C32-2
+Added Pin To Net: NetName=NetC29_2 Pin=C33-2
+Added Pin To Net: NetName=NetC29_2 Pin=F1-1
+Added Pin To Net: NetName=NetC29_2 Pin=IC3-2
+Added Pin To Net: NetName=NetC29_2 Pin=IC3-11
+Added Pin To Net: NetName=NetC29_2 Pin=IC3-12
+Added Pin To Net: NetName=NetC29_2 Pin=IC3-21
+Added Net: Name=NetC29_2
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

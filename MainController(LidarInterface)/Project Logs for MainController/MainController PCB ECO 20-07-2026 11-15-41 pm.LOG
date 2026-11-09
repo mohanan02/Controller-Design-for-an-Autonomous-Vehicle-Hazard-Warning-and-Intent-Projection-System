@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=lidar_Out1 Pin=J2-5
+Removed Pin From Net: NetName=lidar_Out2 Pin=J2-6
+Removed Pin From Net: NetName=lidar_Out1 Pin=R18-2
+Removed Pin From Net: NetName=lidar_Out2 Pin=R19-2
+Removed Pin From Net: NetName=SlECT_LiDAR4 Pin=U1-6
+Removed Pin From Net: NetName=lidar_Out3 Pin=U1-18
+Added Pin To Net: NetName=lidar_Out2 Pin=J2-5
+Added Pin To Net: NetName=lidar_Out1 Pin=J2-6
+Added Pin To Net: NetName=lidar_Out2 Pin=R18-2
+Added Pin To Net: NetName=lidar_Out1 Pin=R19-2
+Added Pin To Net: NetName=lidar_Out3 Pin=U1-6
+Added Pin To Net: NetName=SlECT_LiDAR4 Pin=U1-18
+Change Net Name : Old Net Name=lidar_Out1 New Net Name=lidar_Out2
+Change Net Name : Old Net Name=lidar_Out2 New Net Name=lidar_Out1

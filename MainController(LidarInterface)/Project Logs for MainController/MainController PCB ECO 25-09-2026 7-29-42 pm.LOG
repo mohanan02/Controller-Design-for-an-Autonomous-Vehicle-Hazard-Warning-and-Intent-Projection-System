@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=RESET Pin=D10-1
+Removed Pin From Net: NetName=GND Pin=D10-2
+Change Component Footprint: Designator=D3 Old Footprint=ESDZV5H1BU2 New Footprint=SOD2613X100N
+Change Component Footprint: Designator=D4 Old Footprint=ESDZV5H1BU2 New Footprint=SOD2613X100N
+Change Component Footprint: Designator=D5 Old Footprint=ESDZV5H1BU2 New Footprint=SOD2613X100N
+Change Component Footprint: Designator=D6 Old Footprint=ESDZV5H1BU2 New Footprint=SOD2613X100N
+Change Component Footprint: Designator=D10 Old Footprint=ESDZV5H1BU2 New Footprint=SOD2613X100N
+Change Component Comment : Designator=D3 Old Comment=ESDZV5H-1BU2 New Comment=TSD05CDYFR
+Change Component Comment : Designator=D4 Old Comment=ESDZV5H-1BU2 New Comment=TSD05CDYFR
+Change Component Comment : Designator=D5 Old Comment=ESDZV5H-1BU2 New Comment=TSD05CDYFR
+Change Component Comment : Designator=D6 Old Comment=ESDZV5H-1BU2 New Comment=TSD05CDYFR
+Change Component Comment : Designator=D10 Old Comment=ESDZV5H-1BU2 New Comment=TSD05CDYFR
+Change Component Designator: OldDesignator=J2  Serial Debug NewDesignator=J2
+Change component parameters: Designator = "D3" ("D3"); Footprint = "ESDZV5H1BU2"; UniqueID = "\AYAHYJJE\DMRSDDMK" ("\AYAHYJJE\DMRSDDMK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TSD05CDYFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tsd05cdyfr/texas-instruments.html?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/tsd05c.pdf?ts=1691730725852&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTSD05C%253FkeyMatch%253DTSD05CDYFR%2526tisearch%253Dsearch-everything%2526usecase%253DOPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSD05CDYFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-TSD05CDYFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TSD05CDYFR?qs=Imq1NPwxi74wAiGFX0POZQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "ESDZV5H1BU2"; UniqueID = "\AYAHYJJE\RIJSULUZ" ("\AYAHYJJE\RIJSULUZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TSD05CDYFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tsd05cdyfr/texas-instruments.html?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/tsd05c.pdf?ts=1691730725852&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTSD05C%253FkeyMatch%253DTSD05CDYFR%2526tisearch%253Dsearch-everything%2526usecase%253DOPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSD05CDYFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-TSD05CDYFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TSD05CDYFR?qs=Imq1NPwxi74wAiGFX0POZQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "ESDZV5H1BU2"; UniqueID = "\AYAHYJJE\CGXFVMLQ" ("\AYAHYJJE\CGXFVMLQ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TSD05CDYFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tsd05cdyfr/texas-instruments.html?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/tsd05c.pdf?ts=1691730725852&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTSD05C%253FkeyMatch%253DTSD05CDYFR%2526tisearch%253Dsearch-everything%2526usecase%253DOPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSD05CDYFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-TSD05CDYFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TSD05CDYFR?qs=Imq1NPwxi74wAiGFX0POZQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6" ("D6"); Footprint = "ESDZV5H1BU2"; UniqueID = "\AYAHYJJE\HGCCFSCL" ("\AYAHYJJE\HGCCFSCL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TSD05CDYFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tsd05cdyfr/texas-instruments.html?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/tsd05c.pdf?ts=1691730725852&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTSD05C%253FkeyMatch%253DTSD05CDYFR%2526tisearch%253Dsearch-everything%2526usecase%253DOPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSD05CDYFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-TSD05CDYFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TSD05CDYFR?qs=Imq1NPwxi74wAiGFX0POZQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D10" ("D10"); Footprint = "ESDZV5H1BU2"; UniqueID = "\OFHWCNUX\NDIEHHUX" ("\OFHWCNUX\NDIEHHUX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TSD05CDYFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tsd05cdyfr/texas-instruments.html?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/tsd05c.pdf?ts=1691730725852&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTSD05C%253FkeyMatch%253DTSD05CDYFR%2526tisearch%253Dsearch-everything%2526usecase%253DOPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSD05CDYFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-TSD05CDYFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TSD05CDYFR?qs=Imq1NPwxi74wAiGFX0POZQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D10-1
+Added Pin To Net: NetName=RESET Pin=D10-2

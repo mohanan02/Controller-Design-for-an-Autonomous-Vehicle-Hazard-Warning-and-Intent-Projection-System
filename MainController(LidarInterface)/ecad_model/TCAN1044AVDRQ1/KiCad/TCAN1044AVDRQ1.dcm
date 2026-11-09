@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCAN1044AVDRQ1
+D CAN Interface IC Enhanced automotive CAN transceiver with standby and 1.8-V I/O support
+K
+F https://www.ti.com/lit/gpn/tcan1044av-q1
+$ENDCMP
+#
+#End Doc Library

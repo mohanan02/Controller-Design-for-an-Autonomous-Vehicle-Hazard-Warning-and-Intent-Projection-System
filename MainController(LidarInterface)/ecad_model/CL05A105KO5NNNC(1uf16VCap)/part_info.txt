@@ -1,0 +1,9 @@
+Manufacturer=SAMSUNG
+PartNumber=CL05A105KO5NNNC
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=2.1
+Released=2020-04-07 04:03:31
+Downloaded=2026-07-02 11:38:52
+3D=Y

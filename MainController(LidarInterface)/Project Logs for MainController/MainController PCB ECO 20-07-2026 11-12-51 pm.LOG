@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=lidar_Out2 Pin=R33-2
+Removed Pin From Net: NetName=lidar_Out1 Pin=R34-2
+Removed Pin From Net: NetName=lidar_Out2 Pin=U8-6
+Removed Pin From Net: NetName=lidar_Out1 Pin=U8-7
+Added Pin To Net: NetName=lidar_Out1 Pin=R33-2
+Added Pin To Net: NetName=lidar_Out2 Pin=R34-2
+Added Pin To Net: NetName=lidar_Out1 Pin=U8-6
+Added Pin To Net: NetName=lidar_Out2 Pin=U8-7

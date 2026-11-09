@@ -1,0 +1,10 @@
+Added Component: Designator=R22(RCS1206_E3)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/20065/rcse3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RCS1206120RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-RCS1206120RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/RCS1206120RFKEA?qs=6AVTNucw1PVQ8x%2F57bCkww%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CANL Pin=R22-1
+Added Pin To Net: NetName=NetJ4_2 Pin=R22-2

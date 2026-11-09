@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetD2_A Pin=D7-A
+Removed Pin From Net: NetName=GND Pin=D7-K
+Change Component Footprint: Designator=D7 Old Footprint=DIODE0.7_AUT New Footprint=DIOM5127X229N
+Change Component Footprint: Designator=D2 Old Footprint=DIODE0.7_AUT New Footprint=DO-214AA(SMB)
+Change Component Comment : Designator=D7 Old Comment=1.5KE30A New Comment=SMAJ24A
+Change Component Comment : Designator=D2 Old Comment=1N5820 New Comment=SSB43L
+Change component parameters: Designator = "D2" ("D2"); Footprint = "DIODE0.7_AUT"; UniqueID = "\AYAHYJJE\HAZUJNAZ" ("\AYAHYJJE\HAZUJNAZ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1336556"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7" ("D7"); Footprint = "DIODE0.7_AUT"; UniqueID = "\AYAHYJJE\PYYBHXFN" ("\AYAHYJJE\PYYBHXFN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/88390/smaj50a.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.29mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMAJ24A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "78-SMAJ24A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/SMAJ24A?qs=N78E2i60HJ5M5XdBeXM0ag%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D?(0603)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1832649"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD2_A Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D7-2

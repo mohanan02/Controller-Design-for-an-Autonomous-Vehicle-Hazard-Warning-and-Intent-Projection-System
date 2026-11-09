@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TCAN1044AVDRQ1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TCAN1044AVDRQ1" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "595-TCAN1044AVDRQ1", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAN1044AVDRQ1?qs=A6eO%252BMLsxmTQ0G0Mn%252B%252BM7w%3D%3D", "TCAN1044AVDRQ1", "https://www.arrow.com/en/products/tcan1044avdrq1/texas-instruments.html?utm_currency=USD&region=europe", "CAN Interface IC Enhanced automotive CAN transceiver with standby and 1.8-V I/O support", "https://www.ti.com/lit/gpn/tcan1044av-q1", "1.75 mm"
+END_PART
+
+END.

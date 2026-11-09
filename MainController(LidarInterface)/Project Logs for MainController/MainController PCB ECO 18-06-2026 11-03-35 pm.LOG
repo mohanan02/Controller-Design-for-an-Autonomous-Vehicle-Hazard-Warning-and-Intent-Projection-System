@@ -1,0 +1,10 @@
+Added Component: Designator=J1(SHDRRA4W80P0X381_1X4_2563X920X760P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TBP02R1W-381-04BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tbp02r1w-381-04be/cui-devices?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/tbp02r1w-381.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "7.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TBP02R1W-381-04BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-TBP02R1W-38104BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/TBP02R1W-381-04BE?qs=PzGy0jfpSMsR71sBuJNaSA%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MainController Member=Component J1 TBP02R1W-381-04BE

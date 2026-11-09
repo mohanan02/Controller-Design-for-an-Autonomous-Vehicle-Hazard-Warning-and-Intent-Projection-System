@@ -1,0 +1,18 @@
+.TCAN1044AVDRQ1 :1 ;CAN Interface IC Enhanced automotive CAN transceiver with standby and 1.8-V I/O support
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="TXD" 2="GND" 3="VCC" 4="RXD" 5="NC, VIO" 6="CANL" 7="CANH" 8="STB"
+*MXP 8
+*DFN TCAN1044AVDRQ1
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TCAN1044AVDRQ1)
+~!Mouser Part Number (595-TCAN1044AVDRQ1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAN1044AVDRQ1?qs=A6eO%252BMLsxmTQ0G0Mn%252B%252BM7w%3D%3D)
+~!Arrow Part Number (TCAN1044AVDRQ1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tcan1044avdrq1/texas-instruments.html?utm_currency=USD&region=europe)
+~!Link Datasheet (https://www.ti.com/lit/gpn/tcan1044av-q1)
+~!Height (1.75mm)
+~!3D_Model (TCAN1044AVDRQ1)
+TCAN1044AVDRQ1
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 
