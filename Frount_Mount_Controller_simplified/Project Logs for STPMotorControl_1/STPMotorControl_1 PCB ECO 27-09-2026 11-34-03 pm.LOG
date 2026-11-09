@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=RESET Pin=D3-1
+Removed Pin From Net: NetName=GND Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=IC1-5
+Change Component Footprint: Designator=D3 Old Footprint=ESDZV5H1BU2 New Footprint=SOD2613X100N
+Change Component Footprint: Designator=U1 Old Footprint=QFP50P1200X1200X160-64N New Footprint=LQFP40P900X900X145-64N
+Change Component Comment : Designator=D3 Old Comment=ESDZV5H-1BU2 New Comment=TSD05CDYFR
+Change component parameters: Designator = "D3" ("D3"); Footprint = "ESDZV5H1BU2"; UniqueID = "\NJLBVTEX\CKHUZXQO" ("\NJLBVTEX\CKHUZXQO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TSD05CDYFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tsd05cdyfr/texas-instruments.html?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/tsd05c.pdf?ts=1691730725852&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTSD05C%253FkeyMatch%253DTSD05CDYFR%2526tisearch%253Dsearch-everything%2526usecase%253DOPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TSD05CDYFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-TSD05CDYFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TSD05CDYFR?qs=Imq1NPwxi74wAiGFX0POZQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=RESET Pin=D3-2
+Added Pin To Net: NetName=+3V3 Pin=IC1-5
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

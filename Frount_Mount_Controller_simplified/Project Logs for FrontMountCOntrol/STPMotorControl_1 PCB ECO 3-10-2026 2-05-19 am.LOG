@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=ENABLE_DRV_2 Pin=IC4-41
+Added Pin To Net: NetName=ENABLE_DRV_1 Pin=IC4-41
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

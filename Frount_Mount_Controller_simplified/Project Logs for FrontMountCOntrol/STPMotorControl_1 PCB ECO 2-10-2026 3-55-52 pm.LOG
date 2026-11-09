@@ -1,0 +1,338 @@
+Removed Pin From Net: NetName=GND Pin=C41-1
+Removed Pin From Net: NetName=GND Pin=C42-1
+Removed Pin From Net: NetName=GND Pin=C43-1
+Removed Pin From Net: NetName=GND Pin=C46-2
+Removed Pin From Net: NetName=GND Pin=C47-1
+Removed Pin From Net: NetName=GND Pin=C48-1
+Removed Pin From Net: NetName=GND Pin=C49-1
+Removed Pin From Net: NetName=+3V3 Pin=C50-1
+Removed Pin From Net: NetName=GND Pin=C50-2
+Removed Pin From Net: NetName=GND Pin=C51-2
+Removed Pin From Net: NetName=+3V3 Pin=C52-1
+Removed Pin From Net: NetName=GND Pin=C52-2
+Removed Pin From Net: NetName=GND Pin=C55-1
+Removed Pin From Net: NetName=GND Pin=C56-1
+Removed Pin From Net: NetName=GND Pin=C57-1
+Removed Pin From Net: NetName=GND Pin=C60-2
+Removed Pin From Net: NetName=GND Pin=C61-1
+Removed Pin From Net: NetName=GND Pin=C62-1
+Removed Pin From Net: NetName=GND Pin=C63-1
+Removed Pin From Net: NetName=+3V3 Pin=C64-1
+Removed Pin From Net: NetName=GND Pin=C64-2
+Removed Pin From Net: NetName=GND Pin=C65-2
+Removed Pin From Net: NetName=+3V3 Pin=C66-1
+Removed Pin From Net: NetName=GND Pin=C66-2
+Removed Pin From Net: NetName=+48V Pin=F3-2
+Removed Pin From Net: NetName=+48V Pin=F4-2
+Removed Pin From Net: NetName=+48V Pin=F5-2
+Removed Pin From Net: NetName=+48V Pin=F6-2
+Removed Pin From Net: NetName=GND Pin=IC5-3
+Removed Pin From Net: NetName=GND Pin=IC5-10
+Removed Pin From Net: NetName=GND Pin=IC5-13
+Removed Pin From Net: NetName=GND Pin=IC5-20
+Removed Pin From Net: NetName=GND Pin=IC5-22
+Removed Pin From Net: NetName=GND Pin=IC5-23
+Removed Pin From Net: NetName=+3V3 Pin=IC5-25
+Removed Pin From Net: NetName=SPI2_MISO Pin=IC5-36
+Removed Pin From Net: NetName=SPI2_MOSI Pin=IC5-37
+Removed Pin From Net: NetName=SPI2_SCK Pin=IC5-38
+Removed Pin From Net: NetName=+3V3 Pin=IC5-42
+Removed Pin From Net: NetName=GND Pin=IC5-45
+Removed Pin From Net: NetName=GND Pin=IC6-3
+Removed Pin From Net: NetName=GND Pin=IC6-10
+Removed Pin From Net: NetName=GND Pin=IC6-13
+Removed Pin From Net: NetName=GND Pin=IC6-20
+Removed Pin From Net: NetName=GND Pin=IC6-22
+Removed Pin From Net: NetName=GND Pin=IC6-23
+Removed Pin From Net: NetName=+3V3 Pin=IC6-25
+Removed Pin From Net: NetName=SPI2_MISO Pin=IC6-36
+Removed Pin From Net: NetName=SPI2_MOSI Pin=IC6-37
+Removed Pin From Net: NetName=SPI2_SCK Pin=IC6-38
+Removed Pin From Net: NetName=+3V3 Pin=IC6-42
+Removed Pin From Net: NetName=GND Pin=IC6-45
+Removed Pin From Net: NetName=GND Pin=IC7-3
+Removed Pin From Net: NetName=GND Pin=IC7-10
+Removed Pin From Net: NetName=GND Pin=IC7-13
+Removed Pin From Net: NetName=GND Pin=IC7-20
+Removed Pin From Net: NetName=GND Pin=IC7-22
+Removed Pin From Net: NetName=GND Pin=IC7-23
+Removed Pin From Net: NetName=+3V3 Pin=IC7-25
+Removed Pin From Net: NetName=SPI2_MISO Pin=IC7-36
+Removed Pin From Net: NetName=SPI2_MOSI Pin=IC7-37
+Removed Pin From Net: NetName=SPI2_SCK Pin=IC7-38
+Removed Pin From Net: NetName=+3V3 Pin=IC7-42
+Removed Pin From Net: NetName=GND Pin=IC7-45
+Removed Pin From Net: NetName=GND Pin=IC8-3
+Removed Pin From Net: NetName=GND Pin=IC8-10
+Removed Pin From Net: NetName=GND Pin=IC8-13
+Removed Pin From Net: NetName=GND Pin=IC8-20
+Removed Pin From Net: NetName=GND Pin=IC8-22
+Removed Pin From Net: NetName=GND Pin=IC8-23
+Removed Pin From Net: NetName=+3V3 Pin=IC8-25
+Removed Pin From Net: NetName=SPI2_MISO Pin=IC8-36
+Removed Pin From Net: NetName=SPI2_MOSI Pin=IC8-37
+Removed Pin From Net: NetName=SPI2_SCK Pin=IC8-38
+Removed Pin From Net: NetName=+3V3 Pin=IC8-42
+Removed Pin From Net: NetName=GND Pin=IC8-45
+Removed Pin From Net: NetName=+3V3 Pin=P4-1
+Removed Pin From Net: NetName=GND Pin=P4-3
+Removed Pin From Net: NetName=GND Pin=P4-4
+Removed Pin From Net: NetName=+3V3 Pin=P6-1
+Removed Pin From Net: NetName=GND Pin=P6-3
+Removed Pin From Net: NetName=GND Pin=P6-4
+Removed Pin From Net: NetName=+3V3 Pin=P8-1
+Removed Pin From Net: NetName=GND Pin=P8-3
+Removed Pin From Net: NetName=GND Pin=P8-4
+Removed Pin From Net: NetName=+3V3 Pin=P11-1
+Removed Pin From Net: NetName=GND Pin=P11-3
+Removed Pin From Net: NetName=GND Pin=P11-4
+Removed Pin From Net: NetName=+3V3 Pin=R18-1
+Removed Pin From Net: NetName=+3V3 Pin=R19-1
+Removed Pin From Net: NetName=+3V3 Pin=R20-1
+Removed Pin From Net: NetName=+3V3 Pin=R21-1
+Removed Pin From Net: NetName=+3V3 Pin=R22-1
+Removed Pin From Net: NetName=+3V3 Pin=R23-1
+Removed Pin From Net: NetName=+3V3 Pin=R24-1
+Removed Pin From Net: NetName=+3V3 Pin=R25-1
+Removed Pin From Net: NetName=+3V3 Pin=R26-1
+Removed Pin From Net: NetName=+3V3 Pin=R27-1
+Removed Pin From Net: NetName=+3V3 Pin=R28-1
+Removed Pin From Net: NetName=+3V3 Pin=R29-1
+Removed Pin From Net: NetName=+3V3 Pin=VR4-1
+Removed Pin From Net: NetName=GND Pin=VR4-2
+Removed Pin From Net: NetName=+3V3 Pin=VR5-1
+Removed Pin From Net: NetName=GND Pin=VR5-2
+Removed Pin From Net: NetName=+3V3 Pin=VR6-1
+Removed Pin From Net: NetName=GND Pin=VR6-2
+Removed Pin From Net: NetName=+3V3 Pin=VR7-1
+Removed Pin From Net: NetName=GND Pin=VR7-2
+Removed Member From Class: ClassName=Designator Member=C53
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=C54
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=C55
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=C56
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=C57
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=C58
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=C59
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=C60
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=C61
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=C62
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=C63
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=C64
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=C65
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=C66
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=F5
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=F6
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=IC7
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=IC8
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=R24
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=R25
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=R26
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=R27
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=R28
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=R29
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=VR6
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=VR7
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Change Component Comment : Designator=R18 Old Comment=10k New Comment=5k1
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=ENABLE_DRV_1 Pin=R1-2
+Added Pin To Net: NetName=ENABLE_DRV_1 Pin=U1-62
+Added Net: Name=ENABLE_DRV_1
+Added Pin To Net: NetName=ENABLE_DRV_2 Pin=IC3-41
+Added Pin To Net: NetName=ENABLE_DRV_2 Pin=IC4-41
+Added Pin To Net: NetName=ENABLE_DRV_2 Pin=R18-2
+Added Pin To Net: NetName=ENABLE_DRV_2 Pin=U1-61
+Added Net: Name=ENABLE_DRV_2
+Added Member To Class: ClassName=Designator Member=Component C1 4.7uF
+Added Member To Class: ClassName=Designator Member=Component C2 100nF
+Added Member To Class: ClassName=Designator Member=Component C3 100nF
+Added Member To Class: ClassName=Designator Member=Component C4 100nF
+Added Member To Class: ClassName=Designator Member=Component C5 100nF
+Added Member To Class: ClassName=Designator Member=Component C6 1uF
+Added Member To Class: ClassName=Designator Member=Component C7 100nF
+Added Member To Class: ClassName=Designator Member=Component C8 2.2uF
+Added Member To Class: ClassName=Designator Member=Component C9 1uF
+Added Member To Class: ClassName=Designator Member=Component C10 100nF
+Added Member To Class: ClassName=Designator Member=Component C11 0.1uF
+Added Member To Class: ClassName=Designator Member=Component C12 10uF
+Added Member To Class: ClassName=Designator Member=Component C13 47uF
+Added Member To Class: ClassName=Designator Member=Component C14 47uF
+Added Member To Class: ClassName=Designator Member=Component C15 47uF
+Added Member To Class: ClassName=Designator Member=Component C16 2.2uF
+Added Member To Class: ClassName=Designator Member=Component C17 2.2uF
+Added Member To Class: ClassName=Designator Member=Component C18 2.2uF
+Added Member To Class: ClassName=Designator Member=Component C19 2.2uF
+Added Member To Class: ClassName=Designator Member=Component C20 10nF
+Added Member To Class: ClassName=Designator Member=Component C21 220pF
+Added Member To Class: ClassName=Designator Member=Component C22 100nF
+Added Member To Class: ClassName=Designator Member=Component C23 7pF
+Added Member To Class: ClassName=Designator Member=Component C24 7pF
+Added Member To Class: ClassName=Designator Member=Component C25 1uF
+Added Member To Class: ClassName=Designator Member=Component C26 0.1uF
+Added Member To Class: ClassName=Designator Member=Component C27 1uF
+Added Member To Class: ClassName=Designator Member=Component C28 10nF
+Added Member To Class: ClassName=Designator Member=Component C29 10nF
+Added Member To Class: ClassName=Designator Member=Component C30 1uF
+Added Member To Class: ClassName=Designator Member=Component C31 0.1uF
+Added Member To Class: ClassName=Designator Member=Component C32 1uF
+Added Member To Class: ClassName=Designator Member=Component C33 1uF
+Added Member To Class: ClassName=Designator Member=Component C34 10nF
+Added Member To Class: ClassName=Designator Member=Component C35 10nF
+Added Member To Class: ClassName=Designator Member=Component C36 0.1uF
+Added Member To Class: ClassName=Designator Member=Component C37 1uF
+Added Member To Class: ClassName=Designator Member=Component C38 0.1uF
+Added Member To Class: ClassName=Designator Member=Component D1 ESDCAN03-2BWY
+Added Member To Class: ClassName=Designator Member=Component D2 SS5P6-M3_87A
+Added Member To Class: ClassName=Designator Member=Component D3 TSD05CDYFR
+Added Member To Class: ClassName=Designator Member=Component F1 1206L035/16YR
+Added Member To Class: ClassName=Designator Member=Component F2 1206L035/16YR
+Added Member To Class: ClassName=Designator Member=Component F7 1206L035/16YR
+Added Member To Class: ClassName=Designator Member=Component F8 1206L035/16YR
+Added Member To Class: ClassName=Designator Member=Component F9 1206L035/16YR
+Added Member To Class: ClassName=Designator Member=Component F10 1206L035/16YR
+Added Member To Class: ClassName=Designator Member=Component F11 1206L035/16YR
+Added Member To Class: ClassName=Designator Member=Component F12 1206L035/16YR
+Added Member To Class: ClassName=Designator Member=Component IC1 TCAN3403DRQ1
+Added Member To Class: ClassName=Designator Member=Component IC2 RT6365GSP
+Added Member To Class: ClassName=Designator Member=Component IC3 DRV8462DDWR
+Added Member To Class: ClassName=Designator Member=Component IC4 DRV8462DDWR
+Added Member To Class: ClassName=Designator Member=Component J1 HDR3X2
+Added Member To Class: ClassName=Designator Member=Component J2 HDR1X2V
+Added Member To Class: ClassName=Designator Member=Component J3 SCREWX3
+Added Member To Class: ClassName=Designator Member=Component L1 7.8uH
+Added Member To Class: ClassName=Designator Member=Component LED1 LED-RED
+Added Member To Class: ClassName=Designator Member=Component P1 BS
+Added Member To Class: ClassName=Designator Member=Component P2 BS
+Added Member To Class: ClassName=Designator Member=Component P3 DF13-6P
+Added Member To Class: ClassName=Designator Member=Component P5 DF13-6P
+Added Member To Class: ClassName=Designator Member=Component P9 HDR1X7V
+Added Member To Class: ClassName=Designator Member=Component P13 JST 4
+Added Member To Class: ClassName=Designator Member=Component P15 JST 4
+Added Member To Class: ClassName=Designator Member=Component R1 5k1
+Added Member To Class: ClassName=Designator Member=Component R2 10k
+Added Member To Class: ClassName=Designator Member=Component R3 1k
+Added Member To Class: ClassName=Designator Member=Component R4 120R
+Added Member To Class: ClassName=Designator Member=Component R5 31k6
+Added Member To Class: ClassName=Designator Member=Component R6 5k36
+Added Member To Class: ClassName=Designator Member=Component R7 9k1
+Added Member To Class: ClassName=Designator Member=Component R8 332k
+Added Member To Class: ClassName=Designator Member=Component R9 10k
+Added Member To Class: ClassName=Designator Member=Component R10 0R
+Added Member To Class: ClassName=Designator Member=Component R11 0R
+Added Member To Class: ClassName=Designator Member=Component R12 10k
+Added Member To Class: ClassName=Designator Member=Component R13 10k
+Added Member To Class: ClassName=Designator Member=Component R14 10k
+Added Member To Class: ClassName=Designator Member=Component R15 10k
+Added Member To Class: ClassName=Designator Member=Component R16 10k
+Added Member To Class: ClassName=Designator Member=Component R17 10k
+Added Member To Class: ClassName=Designator Member=Component R18 5k1
+Added Member To Class: ClassName=Designator Member=Component SW1 EVQPF
+Added Member To Class: ClassName=Designator Member=Component T1 Terminal1
+Added Member To Class: ClassName=Designator Member=Component U1 STM32C552RET6
+Added Member To Class: ClassName=Designator Member=Component VR1 2k
+Added Member To Class: ClassName=Designator Member=Component VR2 30k
+Added Member To Class: ClassName=Designator Member=Component VR3 30k
+Added Member To Class: ClassName=Designator Member=Component X1 24MHz
