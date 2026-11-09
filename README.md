@@ -2,19 +2,9 @@
 
 **A distributed, three-node STM32 + CAN electrical control platform that links a 2D LiDAR's field status to a motorised warning gimbal and a front-mounted direction projector, so pedestrians can see where an autonomous forklift detects a hazard and where it intends to go.**
 
-![MCU](https://img.shields.io/badge/MCU-STM32H755%20%7C%20STM32C552-03234B?logo=stmicroelectronics&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-Altium%20Designer-A5915F?logo=altiumdesigner&logoColor=white)
-![Bus](https://img.shields.io/badge/Bus-CAN%20%2F%20CAN%20FD-2E7D32)
-![Supply](https://img.shields.io/badge/Supply-24%20V%20prototype%20%7C%2048%20V%20concept-F57C00)
-![Status](https://img.shields.io/badge/Status-functional%20prototype-1976D2)
 
-<p align="center">
-  <img src="docs/images/pcb-3d-main-lidar-controller.png" alt="3D render of the main LiDAR interface controller PCB" width="32%">
-  <img src="docs/images/pcb-3d-gimbal-controller.png" alt="3D render of the gimbal controller PCB" width="32%">
-  <img src="docs/images/pcb-3d-front-mounted-controller.png" alt="3D render of the front-mounted controller PCB" width="32%">
-  <br>
-  <sub>48 V concept PCBs designed in Altium Designer: main LiDAR interface controller · gimbal controller · front-mounted projector controller</sub>
-</p>
+
+
 
 ---
 
