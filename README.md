@@ -1,0 +1,2 @@
+# Controller Design for an Autonomous Vehicle Hazard-Warning and Intent-Projection System
+Design and prototyping of a distributed electrical control platform for a forklift hazard-warning and intent-projection system. Three controller modules integrate power conversion, LiDAR field-selection and status interfaces, actuator control, analogue position sensing and CAN communication. Development includes functional 24 V prototypes, Altium schematics and 48 V PCB concepts, supported by bench testing and design analysis.
