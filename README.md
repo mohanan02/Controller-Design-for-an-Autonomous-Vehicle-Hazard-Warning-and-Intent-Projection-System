@@ -2,11 +2,25 @@
 
 **A distributed, three-node STM32 + CAN electrical control platform that links a 2D LiDAR's field status to a motorised warning gimbal and a front-mounted direction projector, so pedestrians can see where an autonomous forklift detects a hazard and where it intends to go.**
 
-![MCU](https://img.shields.io/badge/MCU-STM32H755%20%7C%20STM32C552-03234B?logo=stmicroelectronics&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-Altium%20Designer-A5915F?logo=altiumdesigner&logoColor=white)
-![Bus](https://img.shields.io/badge/Bus-CAN%20%2F%20CAN%20FD-2E7D32)
-![Supply](https://img.shields.io/badge/Supply-24%20V%20prototype%20%7C%2048%20V%20concept-F57C00)
-![Status](https://img.shields.io/badge/Status-functional%20prototype-1976D2)
+[![Application](https://img.shields.io/badge/Application-Autonomous%20Forklifts-0B5394?style=for-the-badge)](#overview)
+[![Purpose](https://img.shields.io/badge/Purpose-Pedestrian%20Safety-C62828?style=for-the-badge)](#overview)
+[![Status](https://img.shields.io/badge/Status-Functional%20Prototype-2E7D32?style=for-the-badge)](#test-results)
+[![Year](https://img.shields.io/badge/Year-2026-6A1B9A?style=for-the-badge)](#author)
+
+[![MCU](https://img.shields.io/badge/MCU-STM32H755%20%7C%20STM32C552-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)](#microcontrollers)
+[![EDA](https://img.shields.io/badge/EDA-Altium%20Designer-A5915F?style=flat-square)](#repository-structure)
+[![PCB](https://img.shields.io/badge/PCB-4%20%26%206%20layer-1B5E20?style=flat-square)](#pcb-design)
+[![Bus](https://img.shields.io/badge/Bus-CAN%20%2F%20CAN%20FD-2E7D32?style=flat-square)](#can-interface)
+[![Supply](https://img.shields.io/badge/Supply-24%20V%20prototype%20%7C%2048%20V%20concept-F57C00?style=flat-square)](#power-conversion)
+[![Motor drivers](https://img.shields.io/badge/Motor%20drivers-DRV8825%20%7C%20DRV8462-CC0000?style=flat-square)](#stepper-motor-drivers)
+[![Actuators](https://img.shields.io/badge/Actuators-Stepper%20%2B%20Servo-8E24AA?style=flat-square)](#stepper-motor-drivers)
+[![Sensors](https://img.shields.io/badge/Sensors-2D%20LiDAR%20%7C%20AS5600%20%7C%20BMI323-00838F?style=flat-square)](#lidar-field-interface)
+[![Test firmware](https://img.shields.io/badge/Test%20firmware-Arduino%20%28STM32duino%29-00878F?style=flat-square&logo=arduino&logoColor=white)](#encoder-adc-test)
+
+[![Schematics](https://img.shields.io/badge/Schematics-PDF-B71C1C?style=flat-square)](%281%29Final_Updated_SCHEMATICS)
+[![BOM](https://img.shields.io/badge/BOM-30%20line%20items-455A64?style=flat-square)](bom/prototype_bom.csv)
+[![Last commit](https://img.shields.io/github/last-commit/mohanan02/Controller-Design-for-an-Autonomous-Vehicle-Hazard-Warning-and-Intent-Projection-System?style=flat-square)](https://github.com/mohanan02/Controller-Design-for-an-Autonomous-Vehicle-Hazard-Warning-and-Intent-Projection-System/commits/main)
+[![Repo size](https://img.shields.io/github/repo-size/mohanan02/Controller-Design-for-an-Autonomous-Vehicle-Hazard-Warning-and-Intent-Projection-System?style=flat-square)](https://github.com/mohanan02/Controller-Design-for-an-Autonomous-Vehicle-Hazard-Warning-and-Intent-Projection-System)
 
 <p align="center">
   <img src="docs/images/pcb-3d-main-lidar-controller.png" alt="3D render of the main LiDAR interface controller PCB" width="32%">
