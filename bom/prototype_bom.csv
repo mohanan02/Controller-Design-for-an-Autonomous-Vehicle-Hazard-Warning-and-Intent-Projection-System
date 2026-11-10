@@ -1,0 +1,31 @@
+Manufacturer part,Description,DigiKey code,Qty,Unit price ($),Total ($)
+1206,"SMT adapters, 3-pack, 20-SOIC/TSSOP",1528-1066-ND,1,8.34,8.34
+13655,"SOIC-to-DIP adapter, 8-pin, 4 pcs",1568-13655-ND,2,6.95,13.90
+FIT0193,"Breadboard, general purpose",1738-1005-ND,5,5.84,29.20
+Shuttle Board 3.0 BMI323,BMI323 shuttle board,828-SHUTTLEBOARD3.0BMI323-ND,1,29.43,29.43
+2977,DRV8825 stepper motor driver carrier,2183-2977-ND,8,25.41,203.28
+L6374FP,"Quad line driver, 20-SO",497-14769-5-ND,2,18.33,36.66
+ACPL-K64L-000E,"Optoisolator, 2-channel, push-pull, 8-SO",516-2626-5-ND,3,11.36,34.08
+PHE840MA6100MA04R17,Film capacitor 0.1 µF 20 % 760 VDC,399-11469-ND,15,0.92,13.80
+B32529C0105J000,Film capacitor 1 µF 5 % 63 VDC,495-1119-ND,7,1.07,7.49
+R82DC3470SH60J,Film capacitor 0.47 µF 5 % 63 VDC,399-11865-1-ND,2,0.74,1.48
+B32529C0473K000,Film capacitor 0.047 µF 10 % 63 VDC,495-2558-ND,2,0.50,1.00
+R82EC2100AA50J,Film capacitor 10 nF 5 % 100 VDC,399-5872-ND,2,0.48,0.96
+B32529C0102K000,Film capacitor 1 nF 10 % 63 VDC,495-2456-ND,2,0.50,1.00
+MFR-25FRF52-1K,Resistor 1 kΩ 1 % 0.25 W axial,13-MFR-25FRF52-1KTR-ND,5,0.19,0.95
+MFR-25FRF52-10K,Resistor 10 kΩ 1 % 0.25 W axial,13-MFR-25FRF52-10KTR-ND,10,0.19,1.90
+MFR-12FTF52-47K,Resistor 47 kΩ 1 % 1/6 W axial,13-MFR-12FTF52-47KCT-ND,6,0.19,1.14
+C310T-SC-5-R-TR1,"Fuse, ceramic, 5 A 250 VAC, axial",283-4691-2-ND,10,0.57,5.70
+TBP02R1W-381-03BE,"Terminal block header, 3-pos, 3.81 mm",102-6514-ND,5,1.22,6.10
+TBP02P1W-381-03BE,"Terminal block plug, 3-pos, 3.81 mm",102-6505-ND,5,1.80,9.00
+25SH-B-04-TS,"Header, vertical, 4-pos, 2.5 mm",2057-25SH-B-04-TS-ND,8,0.19,1.52
+25CH-B-04,"Receptacle housing, 4-pos, 2.5 mm",2057-25CH-B-04-ND,8,0.19,1.52
+25CTB-R,"Crimp terminal, 2.5 mm, type B",2057-25CTB-RTR-ND,32,0.19,6.08
+530470610,"Header, vertical, 6-pos, 1.25 mm",WM1735-ND,9,0.70,6.30
+B7P-VH-B,"Header, vertical, 7-pos, 3.96 mm",455-B7P-VH-B-ND,4,0.82,3.28
+VHR-7N,"Receptacle housing, 7-pos, 3.96 mm",455-1181-ND,4,0.41,1.64
+SVH-41T-P1.1,"Crimp socket, 16–20 AWG, tin",455-1319TR-ND,18,0.09,1.62
+ESDCAN03-2BWY,"TVS diode array, 24 V working, SOT-323-3",497-15846-2-ND,4,0.95,3.80
+TCAN3403DRQ1,"CAN FD transceiver, 8-SOIC",296-TCAN3403DRQ1TR-ND,4,3.63,14.52
+RNMF14FTC120R,Resistor 120 Ω 1 % 0.25 W axial,S120CATR-ND,5,0.19,0.95
+DFR1015,DC-DC multi-output buck converter,1738-DFR1015-ND,5,9.82,49.10

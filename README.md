@@ -2,9 +2,19 @@
 
 **A distributed, three-node STM32 + CAN electrical control platform that links a 2D LiDAR's field status to a motorised warning gimbal and a front-mounted direction projector, so pedestrians can see where an autonomous forklift detects a hazard and where it intends to go.**
 
+![MCU](https://img.shields.io/badge/MCU-STM32H755%20%7C%20STM32C552-03234B?logo=stmicroelectronics&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-Altium%20Designer-A5915F?logo=altiumdesigner&logoColor=white)
+![Bus](https://img.shields.io/badge/Bus-CAN%20%2F%20CAN%20FD-2E7D32)
+![Supply](https://img.shields.io/badge/Supply-24%20V%20prototype%20%7C%2048%20V%20concept-F57C00)
+![Status](https://img.shields.io/badge/Status-functional%20prototype-1976D2)
 
-
-
+<p align="center">
+  <img src="docs/images/pcb-3d-main-lidar-controller.png" alt="3D render of the main LiDAR interface controller PCB" width="32%">
+  <img src="docs/images/pcb-3d-gimbal-controller.png" alt="3D render of the gimbal controller PCB" width="32%">
+  <img src="docs/images/pcb-3d-front-mounted-controller.png" alt="3D render of the front-mounted controller PCB" width="32%">
+  <br>
+  <sub>48 V concept PCBs designed in Altium Designer: main LiDAR interface controller · gimbal controller · front-mounted projector controller</sub>
+</p>
 
 ---
 
@@ -397,27 +407,38 @@ Allowing for the full forward-voltage range, the valid window for both signal le
 
 ## Repository structure
 
-```
-.
-├── README.md
-├── hardware/
-│   ├── main-lidar-controller/        # Altium Designer project: schematics + 4-layer PCB
-│   ├── gimbal-controller/            # Altium Designer project: schematics + 4-layer PCB
-│   └── front-mounted-controller/     # Altium Designer project: schematics + 6-layer PCB
-├── firmware/
-│   └── encoder_adc_diagnostic/       # Two-channel AS5600 ADC test sketch
-├── bom/
-│   └── prototype_bom.csv             # Prototype component order (30 line items)
-└── docs/
-    └── images/                       # Figures used in this README
-```
+| Path | Contents |
+|---|---|
+| [`MainController(LidarInterface)/`](MainController%28LidarInterface%29) | Altium Designer project for the main LiDAR interface controller: schematics and 4-layer PCB |
+| [`GimbalController/`](GimbalController) | Altium Designer project for the gimbal controller: schematics and 4-layer PCB |
+| [`Frount_Mount_Controller_simplified/`](Frount_Mount_Controller_simplified) | Altium Designer project for the front-mounted controller: schematics and the 6-layer two-channel layout |
+| [`FrontMountController_Unsimplified/`](FrontMountController_Unsimplified) | Earlier, unsimplified version of the front-mounted controller project |
+| [`(1)Final_Updated_SCHEMATICS/`](%281%29Final_Updated_SCHEMATICS) | PDF exports of the final schematics |
+| [`SchematicPDF&ComponentList/`](SchematicPDF%26ComponentList) | Schematic PDFs and a component list for each board |
+| [`(2)NucleoBoard/`](%282%29NucleoBoard) | ST Nucleo reference-board schematic |
+| [`PrototypeBoard/`](PrototypeBoard) | Prototype photos and the budget and material list |
+| [`Combined_Unique_Component_List.xlsx`](Combined_Unique_Component_List.xlsx) | Combined component list for all boards |
+| [`firmware/encoder_adc_diagnostic/`](firmware/encoder_adc_diagnostic) | Two-channel AS5600 ADC test sketch |
+| [`bom/prototype_bom.csv`](bom/prototype_bom.csv) | Prototype component order (30 line items) |
+| [`docs/images/`](docs/images) | Figures used in this README |
 
 ---
 
 ## Getting started
 
 ### Hardware files
-The schematics and PCB layouts are Altium Designer projects. Open the `.PrjPcb` file in each folder under `hardware/`. The layouts are **concept designs**: confirm the vehicle supply envelope, apply the revisions listed in [48 V design analysis](#48-v-design-analysis), and clear ERC/DRC before sending anything to fabrication.
+The schematics and PCB layouts are Altium Designer projects. Open the `.PrjPcb` file in the controller's folder:
+
+| Controller | Project file |
+|---|---|
+| Main LiDAR interface | `MainController(LidarInterface)/MainController.PrjPcb` |
+| Gimbal | `GimbalController/GimbalController.PrjPcb` |
+| Front-mounted (simplified) | `Frount_Mount_Controller_simplified/FrontMountCOntrol.PrjPcb` |
+| Front-mounted (unsimplified) | `FrontMountController_Unsimplified/STPMotorControl_1.PrjPcb` |
+
+If you don't have Altium, PDF exports of the schematics are in `(1)Final_Updated_SCHEMATICS/` and `SchematicPDF&ComponentList/`.
+
+The layouts are **concept designs**: confirm the vehicle supply envelope, apply the revisions listed in [48 V design analysis](#48-v-design-analysis), and clear ERC/DRC before sending anything to fabrication.
 
 ### Prototype pin map (NUCLEO-H755ZI-Q)
 
