@@ -1,6 +1,6 @@
 # Hazard-Warning & Intent-Projection Controller for Autonomous Forklifts
 
-**A distributed, three-node STM32 + CAN electrical control platform that links a 2D LiDAR's field status to a motorised warning gimbal and a front-mounted direction projector, so pedestrians can see where an autonomous forklift detects a hazard and where it intends to go.**
+**A distributed, three-node STM32 + CAN electrical control platform that links a 2D LiDAR's field status to a motorised warning gimbal and a front-mounted direction projector, so pedestrians can see where an autonomous forklift detects a hazard and where it intends to go.** ![Project Complete](https://img.shields.io/badge/PROJECT-COMPLETE-22C55E?style=for-the-badge&labelColor=7C3AED)
 
 [![Application](https://img.shields.io/badge/Application-Autonomous%20Forklifts-0B5394?style=for-the-badge)](#overview)
 [![Purpose](https://img.shields.io/badge/Purpose-Pedestrian%20Safety-C62828?style=for-the-badge)](#overview)
